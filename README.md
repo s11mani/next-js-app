@@ -1,4 +1,4 @@
-# Next.js + Jest  test newsss
+# Next.js + Jest  test newssss-self-runner
 
 This example shows how to configure Jest to work with Next.js.
 
